@@ -19,4 +19,4 @@ Presses "Generate" and the tool gathers data from the link, does necessary calcu
 In addition once the report is sent to the client, the user enters the Ticket number into the tool under which it was sent to the customer, presses "Press when report is sent" button and the tool generates a .txt file with an email text that has to be sent to the Key Account Manager. <br />
 And finally after clicking the above button it also documents that the report was sent in the shared excel file. <br />
 
-All of this was done manually before but not two-hour for on each report is replaced with a few clicks. <br />
+All of this was done manually before taking up to two-hours for each report to be done and now replaced with a few clicks. <br />
