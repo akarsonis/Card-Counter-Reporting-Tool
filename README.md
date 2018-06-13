@@ -17,6 +17,7 @@ Picks which betting strategy the player is using <br />
 Presses "Generate" and the tool gathers data from the link, does necessary calculations with data from excel file, and using the data compiles logical ready to send report. <br />
 
 In addition once the report is sent to the client, the user enters the Ticket number into the tool under which it was sent to the customer, presses "Press when report is sent" button and the tool generates a .txt file with an email text that has to be sent to the Key Account Manager. <br />
-And finally after clicking the above button it also documents that the report was sent in the shared excel file. <br />
+
+And finally after clicking the above button it also fills in all the documentation regarding the job done. <br />
 
 All of this was done manually before taking up to two-hours for each report to be done and now replaced with a few clicks. <br />
