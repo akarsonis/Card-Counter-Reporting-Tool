@@ -1,6 +1,14 @@
 # Card-Counter-Reporting-Tool
 The tool is designed to analyse data from excel and company back office and as the result compile a full report on an advantage player
 
+It includes: 
+
+Logging in to a website following with the data scraping
+Reading from and writting to excel files
+Performing financial calculations
+Generating .txt files
+Writing information into a .docx file in a logical manner avoiding any grammatical errors
+
 How it works?
 
 The user puts an exlel file into the initial directory of python development environment.
